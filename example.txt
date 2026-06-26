@@ -1,0 +1,7 @@
+Hello world! This is a test file.
+Python is great, and Python is powerful.
+Hello again, world of programming.
+This test file contains several words: hello, hello, HELLO, and Python.
+The world of Python programming is wonderful and exciting.
+Let's count how many times each word appears in this text file.
+Hello Python world - testing, testing, 1 2 3 testing!
